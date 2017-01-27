@@ -1,0 +1,32 @@
+{
+  "name": "parsley-payment",
+  "version": "1.0.0",
+  "description": "A credit card validator for Parsley.js, based on the excellent jQuery-Payment by Stripe",
+  "main": "dist/parsley-payment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmer/parsley-payment.git"
+  },
+  "dependencies" : {
+    "parsleyjs": "~2.0",
+    "jquery-payment" : "~3.0"
+  },
+  "keywords": [
+    "parsley",
+    "parsleyjs",
+    "creditcard",
+    "credit card",
+    "validation",
+    "stripe",
+    "payment"
+  ],
+  "author": "Carl Mercier <carl@carlmercier.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmer/parsley-payment/issues"
+  },
+  "homepage": "https://github.com/cmer/parsley-payment#readme"
+}
