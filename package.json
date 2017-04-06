@@ -12,7 +12,7 @@
   },
   "dependencies" : {
     "parsleyjs": "~2.0",
-    "jquery-payment" : "~3.0"
+    "jquery.payment" : "~3.0"
   },
   "keywords": [
     "parsley",
