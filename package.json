@@ -1,6 +1,6 @@
 {
   "name": "parsley-payment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A credit card validator for Parsley.js, based on the excellent jQuery-Payment by Stripe",
   "main": "dist/parsley-payment.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "dependencies" : {
     "parsleyjs": "~2.0",
-    "jquery-payment" : "~3.0"
+    "jquery.payment" : "~3.0"
   },
   "keywords": [
     "parsley",

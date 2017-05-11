@@ -1,6 +1,6 @@
 /*!
 * Parsley-Payment.js
-* Version 1.0.0
+* Version 1.0.1
 * http://github.com/cmer/parsley-payment
 * Carl Mercier - <foss@carlmercier.com>
 * MIT Licensed
